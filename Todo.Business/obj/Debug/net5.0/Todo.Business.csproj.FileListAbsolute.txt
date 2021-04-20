@@ -1,0 +1,17 @@
+C:\Users\W7\Desktop\Todo\Todo.Business\bin\Debug\net5.0\Todo.Business.deps.json
+C:\Users\W7\Desktop\Todo\Todo.Business\bin\Debug\net5.0\Todo.Business.dll
+C:\Users\W7\Desktop\Todo\Todo.Business\bin\Debug\net5.0\ref\Todo.Business.dll
+C:\Users\W7\Desktop\Todo\Todo.Business\bin\Debug\net5.0\Todo.Business.pdb
+C:\Users\W7\Desktop\Todo\Todo.Business\bin\Debug\net5.0\Todo.DataAccsess.dll
+C:\Users\W7\Desktop\Todo\Todo.Business\bin\Debug\net5.0\Todo.Entities.dll
+C:\Users\W7\Desktop\Todo\Todo.Business\bin\Debug\net5.0\Todo.DataAccsess.pdb
+C:\Users\W7\Desktop\Todo\Todo.Business\bin\Debug\net5.0\Todo.Entities.pdb
+C:\Users\W7\Desktop\Todo\Todo.Business\obj\Debug\net5.0\Todo.Business.csprojAssemblyReference.cache
+C:\Users\W7\Desktop\Todo\Todo.Business\obj\Debug\net5.0\Todo.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W7\Desktop\Todo\Todo.Business\obj\Debug\net5.0\Todo.Business.AssemblyInfoInputs.cache
+C:\Users\W7\Desktop\Todo\Todo.Business\obj\Debug\net5.0\Todo.Business.AssemblyInfo.cs
+C:\Users\W7\Desktop\Todo\Todo.Business\obj\Debug\net5.0\Todo.Business.csproj.CoreCompileInputs.cache
+C:\Users\W7\Desktop\Todo\Todo.Business\obj\Debug\net5.0\Todo.Business.csproj.CopyComplete
+C:\Users\W7\Desktop\Todo\Todo.Business\obj\Debug\net5.0\Todo.Business.dll
+C:\Users\W7\Desktop\Todo\Todo.Business\obj\Debug\net5.0\ref\Todo.Business.dll
+C:\Users\W7\Desktop\Todo\Todo.Business\obj\Debug\net5.0\Todo.Business.pdb

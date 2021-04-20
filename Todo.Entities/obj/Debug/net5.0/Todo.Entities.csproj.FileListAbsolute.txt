@@ -1,0 +1,12 @@
+C:\Users\W7\Desktop\Todo\Todo.Entities\bin\Debug\net5.0\Todo.Entities.deps.json
+C:\Users\W7\Desktop\Todo\Todo.Entities\bin\Debug\net5.0\Todo.Entities.dll
+C:\Users\W7\Desktop\Todo\Todo.Entities\bin\Debug\net5.0\ref\Todo.Entities.dll
+C:\Users\W7\Desktop\Todo\Todo.Entities\bin\Debug\net5.0\Todo.Entities.pdb
+C:\Users\W7\Desktop\Todo\Todo.Entities\obj\Debug\net5.0\Todo.Entities.csprojAssemblyReference.cache
+C:\Users\W7\Desktop\Todo\Todo.Entities\obj\Debug\net5.0\Todo.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W7\Desktop\Todo\Todo.Entities\obj\Debug\net5.0\Todo.Entities.AssemblyInfoInputs.cache
+C:\Users\W7\Desktop\Todo\Todo.Entities\obj\Debug\net5.0\Todo.Entities.AssemblyInfo.cs
+C:\Users\W7\Desktop\Todo\Todo.Entities\obj\Debug\net5.0\Todo.Entities.csproj.CoreCompileInputs.cache
+C:\Users\W7\Desktop\Todo\Todo.Entities\obj\Debug\net5.0\Todo.Entities.dll
+C:\Users\W7\Desktop\Todo\Todo.Entities\obj\Debug\net5.0\ref\Todo.Entities.dll
+C:\Users\W7\Desktop\Todo\Todo.Entities\obj\Debug\net5.0\Todo.Entities.pdb
